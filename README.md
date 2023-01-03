@@ -1,4 +1,4 @@
-# logistic_regression
+# Logistic Regression: an application in high risk Covid-19 patients detection
  
 Notebooks:
 
