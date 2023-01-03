@@ -1,4 +1,4 @@
-# Logistic Regression: an application in high risk Covid-19 patients detection
+# Regressão Logística: uma aplicação na detecção de pacientes de alto risco da Covid-19
  
 Notebooks:
 
