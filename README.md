@@ -8,4 +8,12 @@ Há dois notebooks neste repositório:
 
 A regressão logística é um dos modelos de Machine Learning mais conhecidos e é aplicada quando queremos prever classificações através de probabilidades. Seu princípio envolve a utilização da função de ativação sigmoid na soma ponderada dos valores das features para obtenção de probabilidades que indicarão, ao serem comparadas com um threshold (limiar), qual a classificação final naquela situação.
 
-Neste repositório, encontram-se os notebooks "01_feature_engineering_and_logistic_regression_application.ipynb" e "02_logreg_implementation.ipynb" que desenvolvem passo-a-passo o modelo de regressão logística seguindo uma lógica para aprendizado da aplicação e implementação do modelo seguindo as boas práticas utilizadas no aprendizado de máquina.
+Neste repositório, encontram-se os notebooks "01_feature_engineering_and_logistic_regression_application.ipynb" e "02_logreg_implementation.ipynb" que desenvolvem passo-a-passo o modelo de regressão logística seguindo uma lógica para aprendizado da aplicação e implementação seguindo as boas práticas utilizadas no aprendizado de máquina.
+
+# Tecnologias e Bibliotecas Utilizadas
+
+- Jupyter Notebook
+- Python
+- Pandas
+- Numpy
+- Matplotlib
