@@ -15,5 +15,6 @@ Neste repositório, encontram-se os notebooks "01_logreg_feature_engineering_and
 - Jupyter Notebook
 - Python
 - Pandas
+- Sklearn
 - Numpy
 - Matplotlib
