@@ -10,7 +10,7 @@ A regressão logística é um dos modelos de Machine Learning mais conhecidos e 
 
 Neste repositório, encontram-se os notebooks "01_logreg_feature_engineering_and_application_sklearn.ipynb" e "02_logreg_implementation.ipynb" que desenvolvem passo-a-passo o modelo de regressão logística seguindo uma lógica para aprendizado da aplicação e implementação seguindo as boas práticas utilizadas no aprendizado de máquina.
 
-# Tecnologias e Bibliotecas Utilizadas
+## Tecnologias e Bibliotecas Utilizadas
 
 - Jupyter Notebook
 - Python
